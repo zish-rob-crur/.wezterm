@@ -1,0 +1,2 @@
+# .wezterm.lua
+wezterm config 
